@@ -64,8 +64,8 @@ Express-based API Gateway featuring JWT Authentication, API Keys, Rate Limiting,
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajneesh2025&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajneesh2025&layout=compact&theme=tokyonight" />
+  <img height="170" hspace="10" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajneesh2025&show_icons=true&theme=tokyonight" />
+  <img height="170" hspace="10" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajneesh2025&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -87,50 +87,53 @@ Express-based API Gateway featuring JWT Authentication, API Keys, Rate Limiting,
 ---
 
 
-Very modern.
+## 📊 Developer Snapshot
 
----
-
-# Option 4 ⭐⭐⭐⭐⭐ (Best Looking)
-
-Replace the trophies with your **Featured Repositories**.
-
-```md
-# 🚀 Featured Repositories
-
-<table>
+<table align="center">
 <tr>
+<td align="center" width="180">
 
-<td width="50%">
-<a href="https://github.com/rajneesh2025/task-forge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajneesh2025&repo=task-forge&theme=tokyonight"/>
-</a>
+### 💼
+
+**Experience**
+
+**1+ Years**
+
 </td>
 
-<td width="50%">
-<a href="https://github.com/rajneesh2025/api-gateway">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajneesh2025&repo=api-gateway&theme=tokyonight"/>
-</a>
+<td align="center" width="180">
+
+### 🚀
+
+**Projects**
+
+**10+**
+
 </td>
 
-</tr>
+<td align="center" width="180">
 
-<tr>
+### 🧩
 
-<td width="50%">
-<a href="https://github.com/rajneesh2025/custom-totp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajneesh2025&repo=custom-totp&theme=tokyonight"/>
-</a>
+**DSA**
+
+**660+**
+
 </td>
 
-<td width="50%">
-<a href="https://github.com/rajneesh2025">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajneesh2025&repo=YOUR_BEST_PROJECT&theme=tokyonight"/>
-</a>
+<td align="center" width="180">
+
+### ⭐
+
+**Stack**
+
+React • Node
+
 </td>
 
 </tr>
 </table>
+
 
 ---
 
