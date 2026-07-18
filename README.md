@@ -89,7 +89,7 @@ Express-based API Gateway featuring JWT Authentication, API Keys, Rate Limiting,
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rajneesh2025&theme=algolia&margin-w=10&margin-h=10&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rajneesh2025&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&v=2" />
 </p>
 
 ---
