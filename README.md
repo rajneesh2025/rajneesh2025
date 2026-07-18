@@ -86,23 +86,51 @@ Express-based API Gateway featuring JWT Authentication, API Keys, Rate Limiting,
 
 ---
 
-# 🎯 Core Expertise
 
-<p align="center">
+Very modern.
 
-<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+# Option 4 ⭐⭐⭐⭐⭐ (Best Looking)
 
-<img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+Replace the trophies with your **Featured Repositories**.
 
-<img src="https://img.shields.io/badge/API-REST-FF6B6B?style=for-the-badge"/>
+```md
+# 🚀 Featured Repositories
 
-<img src="https://img.shields.io/badge/Auth-JWT-000000?style=for-the-badge"/>
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/System-Design-blue?style=for-the-badge"/>
+<td width="50%">
+<a href="https://github.com/rajneesh2025/task-forge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajneesh2025&repo=task-forge&theme=tokyonight"/>
+</a>
+</td>
 
-</p>
+<td width="50%">
+<a href="https://github.com/rajneesh2025/api-gateway">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajneesh2025&repo=api-gateway&theme=tokyonight"/>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+<a href="https://github.com/rajneesh2025/custom-totp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajneesh2025&repo=custom-totp&theme=tokyonight"/>
+</a>
+</td>
+
+<td width="50%">
+<a href="https://github.com/rajneesh2025">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajneesh2025&repo=YOUR_BEST_PROJECT&theme=tokyonight"/>
+</a>
+</td>
+
+</tr>
+</table>
 
 ---
 
