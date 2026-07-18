@@ -18,7 +18,7 @@
 - 💼 Software Developer at **Taction Software**
 - ⚡ Building scalable **React.js + Node.js** applications
 - 🔐 Interested in Backend Engineering, Authentication Systems, API Gateways & System Design
-- 🌱 Currently learning Docker, Redis, AWS & Microservices
+- 🌱 Currently learning Docker, Redis & Microservices
 - 🏆 660+ DSA & Competitive Programming Problems Solved
 - 📍 Noida, India
 
