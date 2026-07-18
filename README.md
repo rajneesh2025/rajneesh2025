@@ -86,10 +86,22 @@ Express-based API Gateway featuring JWT Authentication, API Keys, Rate Limiting,
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎯 Core Expertise
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajneesh2025&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&v=2" />
+
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/API-REST-FF6B6B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Auth-JWT-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System-Design-blue?style=for-the-badge"/>
+
 </p>
 
 ---
